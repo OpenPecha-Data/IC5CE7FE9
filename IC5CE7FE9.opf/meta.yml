@@ -1,0 +1,21 @@
+id: IC5CE7FE9
+initial_creation_type: ebook
+source_metadata:
+  id: RDI-KK-20-1
+  title: ''
+  author: ''
+  authors: &id001 []
+  sku: RDI-KK-20-1
+  cover: RDI-KK-20-1.jpeg
+  volume: {}
+ebook_metadata:
+  title: ''
+  authors: *id001
+  sku: RDI-KK-20-1
+  cover: RDI-KK-20-1.jpeg
+layers:
+- Chapter
+- Citation
+- Commentary
+- Sabche
+- Tsawa
