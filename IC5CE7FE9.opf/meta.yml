@@ -2,14 +2,18 @@ id: IC5CE7FE9
 initial_creation_type: ebook
 source_metadata:
   id: RDI-KK-20-1
-  title: ''
-  author: ''
-  authors: &id001 []
+  title: བརྟག་པ་གཉིས་པའི་འགྲེལ་བ། སྟོད་ཆ།
+  author: མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་ཡོན་ཏན་རྒྱ་མཚོ།
+  authors: &id001
+  - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་ཡོན་ཏན་རྒྱ་མཚོ།
   sku: RDI-KK-20-1
   cover: RDI-KK-20-1.jpeg
   volume: {}
+  publisher: Rigpe Dorje Publication
+  title_source: epub:dc:title
+  author_source: base_text:colophon
 ebook_metadata:
-  title: ''
+  title: བརྟག་པ་གཉིས་པའི་འགྲེལ་བ། སྟོད་ཆ།
   authors: *id001
   sku: RDI-KK-20-1
   cover: RDI-KK-20-1.jpeg
